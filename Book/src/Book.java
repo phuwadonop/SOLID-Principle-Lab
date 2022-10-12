@@ -39,8 +39,7 @@ public abstract class Book {
             return false;
         }
     }
-
+    
     public abstract void print();
-    //print to file
 
 }
